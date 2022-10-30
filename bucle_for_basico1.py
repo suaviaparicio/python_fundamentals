@@ -41,11 +41,12 @@
 lowNum = 2
 highNum = 9
 mult = 3
-multiplos_mult = ()
+multiplos_mult = []
 
 for x in range(lowNum, highNum+1):
     if x % mult == 0:
-        multiplos_mult.append(x)
-print(multiplos_mult)
+        # multiplos_mult.append(x)
+        print(x)
+# print(multiplos_mult)
 
 

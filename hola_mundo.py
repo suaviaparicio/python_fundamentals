@@ -13,3 +13,4 @@ fave_food1 = "sushi"
 fave_food2 = "la comida india"
 print("Amo comer {} y {}".format(fave_food1, fave_food2))  # con .format()
 print(f"Amo comer {fave_food1} y {fave_food2}")  # con una cadena f
+ 
